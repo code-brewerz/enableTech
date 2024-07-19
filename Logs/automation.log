@@ -1,0 +1,25 @@
+2024-07-19 21:53:58,482 - root - INFO - ***** Verify Homepage Title : Passed *****
+2024-07-19 21:54:02,034 - root - INFO - ***** Clicked on Login on Homepage : Passed *****
+2024-07-19 21:54:02,295 - root - INFO - ***** Clicked on SSO Google Login: Passed *****
+2024-07-19 21:54:02,338 - root - INFO - ***** Switched to SSO Window: Passed *****
+2024-07-19 21:54:04,742 - root - INFO - ***** Filled Email : Passed *****
+2024-07-19 21:58:25,803 - root - INFO - ***** Verify Homepage Title : Passed *****
+2024-07-19 21:58:29,242 - root - INFO - ***** Clicked on Login on Homepage : Passed *****
+2024-07-19 21:58:29,539 - root - INFO - ***** Clicked on SSO Google Login: Passed *****
+2024-07-19 21:58:29,585 - root - INFO - ***** Switched to SSO Window: Passed *****
+2024-07-19 21:58:33,225 - root - INFO - ***** Filled Email : Passed *****
+2024-07-19 22:07:59,800 - root - INFO - ***** Verify Homepage Title : Passed *****
+2024-07-19 22:08:05,400 - root - INFO - ***** Clicked on Login on Homepage : Passed *****
+2024-07-19 22:08:05,682 - root - INFO - ***** Clicked on SSO Google Login: Passed *****
+2024-07-19 22:08:05,725 - root - INFO - ***** Switched to SSO Window: Passed *****
+2024-07-19 22:08:10,408 - root - INFO - ***** Filled Email : Passed *****
+2024-07-19 22:08:54,648 - root - INFO - ***** Verify Homepage Title : Passed *****
+2024-07-19 22:08:58,182 - root - INFO - ***** Clicked on Login on Homepage : Passed *****
+2024-07-19 22:08:58,442 - root - INFO - ***** Clicked on SSO Google Login: Passed *****
+2024-07-19 22:08:58,479 - root - INFO - ***** Switched to SSO Window: Passed *****
+2024-07-19 22:09:00,864 - root - INFO - ***** Filled Email : Passed *****
+2024-07-19 22:09:58,598 - root - INFO - ***** Verify Homepage Title : Passed *****
+2024-07-19 22:10:02,149 - root - INFO - ***** Clicked on Login on Homepage : Passed *****
+2024-07-19 22:10:02,454 - root - INFO - ***** Clicked on SSO Google Login: Passed *****
+2024-07-19 22:10:02,507 - root - INFO - ***** Switched to SSO Window: Passed *****
+2024-07-19 22:10:04,592 - root - INFO - ***** Filled Email : Passed *****
