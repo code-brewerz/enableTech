@@ -13,7 +13,7 @@ from utilities.customLogger import LogGen
 
 
 class Test_landing:
-    baseURL = ReadConfig.getBaseURL()
+    baseURL = ReadConfig.getCourseURL()
     username = ReadConfig.getUsername()
     password = ReadConfig.getPassword()
     logger = LogGen.loggen()
@@ -65,4 +65,3 @@ class Test_landing:
         time.sleep(3)
 
         #Click Submit
-
